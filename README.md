@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](matheus.barboza.henrique@gmail.com)
 
 
-    Olá meu nome é Matheus Barboza, Desenvolvedor Fullstack e apaixonado por tecnologia
+    Olá meu nome é Matheus Barboza, Desenvolvedor Fullstack junior e apaixonado por tecnologia
     /
     Hello my name is Matheus Barboza, Fullstack JavaScript Developer and Impassioned by technology
 
