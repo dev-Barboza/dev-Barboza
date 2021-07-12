@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**dev-Barboza/dev-Barboza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :man_technologist: Bem vindo ao meu mundo !
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/matheus-barboza-8786a219a/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](matheus.barboza.henrique@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    Olá meu nome é Matheus Barboza, Desenvolvedor Fullstack e apaixonado por tecnologia
+    /
+    Hello my name is Matheus Barboza, Fullstack JavaScript Developer and Impassioned by technology
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Barboza&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Barboza)](https://github.com/anuraghazra/github-readme-stats)
+
+
